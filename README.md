@@ -1,5 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning java/spring
+
+![hyuuneee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuuneee&show_icons=true&theme=radical)
 <!--
 **hyuuneee/hyuuneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
