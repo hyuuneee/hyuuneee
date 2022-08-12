@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning java/spring
 <!--
 **hyuuneee/hyuuneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
